@@ -8,7 +8,7 @@ API REST em Spring Boot para gerenciamento de livros e categorias, com autentica
 
 ## 📖 Sobre o projeto
 
-Backend desenvolvido em **Java + Spring Boot** para um sistema de catálogo de livros. Expõe endpoints REST para autenticação, cadastro e consulta de livros e categorias, seguindo uma arquitetura em camadas (controller, service, repository, model, DTO). Este projeto serve de API para o front-end [`booksFront_End`](https://github.com/Eduardo00073/booksFront_End).
+Backend desenvolvido em **Java + Spring Boot** para um sistema de catálogo de livros. Expõe endpoints REST para autenticação, cadastro e consulta de livros e categorias, seguindo uma arquitetura em camadas (controller, service, repository, model, DTO). Este projeto serve de API para o front-end [`booksFront_End`](https://github.com/Eduardo00073/books-frontend).
 
 ## ✨ Funcionalidades
 
