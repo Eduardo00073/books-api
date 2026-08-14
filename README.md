@@ -60,3 +60,19 @@ A documentação interativa da API fica disponível em `/swagger-ui.html` após 
 ---
 
 <p align="center"><i>Projeto desenvolvido como parte dos meus estudos em Desenvolvimento Full Stack.</i></p>
+
+---
+
+## ⭐ Gostou do projeto?
+
+Se este projeto te ajudou ou despertou seu interesse, deixe uma **estrela** — isso ajuda outros desenvolvedores a encontrarem o repositório e me motiva a continuar evoluindo.
+
+### 🔗 Outros projetos relacionados
+
+🎨 [Books Frontend](https://github.com/Eduardo00073/books-frontend) — frontend em Vue.js que consome esta API.
+
+☕ [Library Spring Boot](https://github.com/Eduardo00073/library-spring-boot) — outro projeto de gestão de livros em Spring Boot.
+
+### 🤝 Quer contribuir?
+
+Dê uma olhada nas issues marcadas como `good first issue`. Toda contribuição é bem-vinda — desde relatar um bug até sugerir uma nova funcionalidade.
